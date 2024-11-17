@@ -1,5 +1,5 @@
 # PerhitunganDiskon
-Vina Ramadhanti Putri Pratiwi-2410010559-5ANRBJM-Tugas3AplikasiPerhitunganDiskon
+# Vina Ramadhanti Putri Pratiwi-2410010559-5ANRBJM-Tugas3AplikasiPerhitunganDiskon
 
 Deskripsi Program:
 • Pengguna memasukkan harga asli dan memilih persentase diskon
